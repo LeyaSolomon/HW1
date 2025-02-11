@@ -52,7 +52,3 @@ if (userGuess == secretNumber) {
 } else {
    console.log("Попробуйте ещё раз!");
 }
-
-
-
-//Homework 3
